@@ -20,6 +20,10 @@ Install dependencies:
 ```bash
 pip install requests colorama
 ```
+Change Token:
+```
+authorization_token = "TOKEN HERE"
+```
 
 ## Disclaimer
 I am not responsible for any damages, consequences, results, or account suspensions that may occur through the use of this tool. By running this tool, you acknowledge that it is entirely at your own risk and you take full responsibility for any actions or outcomes that result from its use.
